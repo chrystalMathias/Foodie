@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_hotel.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_hotel_entry.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_hotel_forgot_password.xml" value="0.1" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_hotel_login.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_hotel_registration.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_order_verification.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_passanger.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_passanger_billing.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_passanger_order.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/activity_passanger_summery.xml" value="0.21105072463768115" />
+        <entry key="..\:/Users/pushp/AndroidStudioProjects/RailwaysFoodApplication/app/src/main/res/layout/list_item.xml" value="0.21105072463768115" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

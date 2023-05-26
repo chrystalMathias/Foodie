@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.foodiee">
+    <uses-permission android:name="android.permission.SEND_SMS"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Foodie"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RailwaysFoodApplication"
+        tools:targetApi="31">
+        <activity
+            android:name="com.example.foodiee.CustomerSummery"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.CustomerBilling"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.CustomerOrder"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.HotelForgotPassword"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.HotelRegistration"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.Customer"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.OrderVerification"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.Hotel"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.CustomerLogin"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.HotelEntry"
+            android:exported="false" />
+        <activity
+            android:name="com.example.foodiee.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
