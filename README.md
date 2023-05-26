@@ -1,2 +1,3 @@
-# Railways-Food
-Railways Food Application helps to order food in Train from the best hotel to nearest Railway Station 
+# Foodie-App
+
+Food Application For ordering of food from nearby restaurants
